@@ -1,0 +1,31 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+48.8903294	2.2448008	ARFCN 24	208-1-24832-65222<br/>Orange France<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8920914	2.2353996	ARFCN 74	208-10-15701-10350<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8810044	2.2484456	ARFCN 78	208-10-15701-0<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8810044	2.2484456	ARFCN 98	208-10-15701-0<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8861941	2.2456368	ARFCN 100	208-10-15701-48933<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8904155	2.2427917	ARFCN 101	208-10-15701-9234<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8879748	2.2440909	ARFCN 111	208-10-15701-48932<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8840174	2.2384387	ARFCN 115	208-10-15701-39203<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8925809	2.2403045	ARFCN 124	208-10-15701-19237<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8921027	2.2394594	ARFCN 535	208-1-24832-39860<br/>Orange France<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8912657	2.2426774	ARFCN 553	208-1-24832-39863<br/>Orange France<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8890354	2.2463099	ARFCN 555	208-1-24832-42160<br/>Orange France<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8902281	2.2427437	ARFCN 656	208-10-15701-7331<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8888551	2.2460349	ARFCN 667	208-10-15701-43412<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8903077	2.2478806	ARFCN 689	208-10-15701-61636<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8917095	2.2391306	ARFCN 691	208-10-15701-33653<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.88727	2.2514927	ARFCN 695	208-10-15701-43234<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8910411	2.241728	ARFCN 708	208-10-15701-33654<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8878607	2.244976	ARFCN 717	208-10-15701-48929<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8913228	2.2362814	ARFCN 742	208-10-15701-10342<br/>S.F.R.<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.889077	2.2358756	ARFCN 788	208-20-371-3297<br/>Bouygues Telecom<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8911526	2.2416734	ARFCN 789	208-20-371-3791<br/>Bouygues Telecom<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8925989	2.2453853	ARFCN 790	208-20-371-261<br/>Bouygues Telecom<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8862264	2.2565701	ARFCN 800	208-20-371-994<br/>Bouygues Telecom<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8887182	2.2516723	ARFCN 812	208-20-371-260<br/>Bouygues Telecom<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8881161	2.2632813	ARFCN 1000	208-20-371-0<br/>Bouygues Telecom<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8849426	2.2561756	ARFCN 1003	208-20-371-30786<br/>Bouygues Telecom<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8872187	2.2440565	ARFCN 1006	208-20-371-30787<br/>Bouygues Telecom<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.8876832	2.2534049	ARFCN 1014	208-20-371-30785<br/>Bouygues Telecom<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24
+48.883275	2.2532383	ARFCN 1017	208-20-371-56492<br/>Bouygues Telecom<br/>France	imgs/Ol_icon_blue_example.png	24,24	0,-24

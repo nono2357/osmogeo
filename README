@@ -1,0 +1,9 @@
+osmogeo - GSM BTS mapping and user tracking
+-------------------------------------------
+
+Requirements:
+- OsmocomBB
+- Change INSTALL_PATH in config.py
+- USB serial port (ttyUSB0) can be changed in layer1.py
+- Run osmogeo.py as root or give sniffing permission to current user (SUID for /usr/bin/tshark)
+
